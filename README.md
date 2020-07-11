@@ -1,7 +1,7 @@
 # Hi there, My name is Smart 😁
 
 - 🧑🏽‍💻 I’m currently working as a software engineer at Ascend Group.
-- ✉️ you can contact me by send an email to nattaponchitnarong@gmail.com
+- ✉️ you can contact me by email (nattaponchitnarong@gmail.com)
 
 <!--
 **smarty0123/smarty0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
