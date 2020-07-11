@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there, My name is Smart 😁
+
+- 🧑🏽‍💻 I’m currently working as a software engineer at Ascend Group.
 
 <!--
 **smarty0123/smarty0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
