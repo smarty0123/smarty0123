@@ -1,6 +1,6 @@
 # Hi there, My name is Smart 😁
 
-### ` 🧑🏽‍💻 I’m currently working as a software engineer at Ascend Group.`
+### ` 🧑🏽‍💻 I’m currently working as a software engineer in Thailand.`
 
 ### ` ✉️ You can contact me by email (nattapon.chi96@gmail.com)`
 
