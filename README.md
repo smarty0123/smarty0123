@@ -1,4 +1,5 @@
-# Hi there, My name is Smart 😁
+![smart_header](https://i.ibb.co/gPHTQvJ/github-header-image-2.png)
+
 
 ### ` 🧑🏽‍💻 I’m currently working as a software engineer.`
 
