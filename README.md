@@ -1,4 +1,4 @@
-[![](https://i.ibb.co/gPHTQvJ/github-header-image-2.png)](#)
+[![](https://i.ibb.co/44h0pW2/github-header-image-3.png)](#)
 
 ### ` 🧑🏽‍💻 I’m currently working as a software engineer.`
 
