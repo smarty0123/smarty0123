@@ -2,8 +2,6 @@
 
 ### ` 🧑🏽‍💻 I’m currently working as a software engineer.`
 
-### ` ✉️ You can contact me by email (nattapon.chi96@gmail.com)`
-
 
 ![Nattapon's GitHub stats](https://github-readme-stats.vercel.app/api?username=smarty0123&count_private=true)
 
